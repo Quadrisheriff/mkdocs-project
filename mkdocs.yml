@@ -1,1 +1,15 @@
-site_name: My Docs
+## Add your website's information
+site_name: new-mkdocs-project
+site_description: A new mkdocs project
+site_author: Quadri Sheriff
+
+
+## Edit the Nav bar
+nav:
+  - Home: index.md
+  - Second page: second.md
+
+theme:
+  name: material
+  palette:
+    primary: 'purple'
