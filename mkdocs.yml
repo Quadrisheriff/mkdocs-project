@@ -8,8 +8,3 @@ site_author: Quadri Sheriff
 nav:
   - Home: index.md
   - Second page: second.md
-
-theme:
-  name: material
-  palette:
-    primary: 'purple'
